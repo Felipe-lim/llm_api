@@ -1,0 +1,7 @@
+fastapi
+openai
+cohere
+google-generativeai
+anthropic
+json
+python-dotenv
